@@ -13,14 +13,12 @@ body {
 }
 
 h1 {
-	color: #ad0101;
 	text-indent: 0.5em;
 	font-size: 1.7rem;
 	margin-top: 1.3rem;
 }
 
 .chapter {
-	color: #ad0101;
 	font-weight: bold;
 	font-size: 1.15rem;
 	text-indent: 0.5em;
@@ -29,13 +27,11 @@ h1 {
 .title {
 	margin-top: 2.5rem;
 	font-weight: bold;
-	color:chocolate;
 }
 
 .subhead {
 	margin-top: 2.5rem;
 	font-weight: bold;
-	color:#0d3fe3;
 }
 
 .subhead:first-child {
@@ -46,7 +42,6 @@ h1 {
 	margin-bottom: -0.5rem;
 	margin-top: 2rem;
 	font-weight: light;
-	color: #ad0101;
 }
 
 .inlineNumber {
@@ -54,7 +49,6 @@ h1 {
 }
 
 p {
-	color: #008080;
 	text-indent: 1.3em;
 }
 
